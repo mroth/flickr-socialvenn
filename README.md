@@ -2,6 +2,8 @@
 
 A quick hack to generate a weighted contact intersection venn diagram for a Flickr user and their closest neighbors.  It was used for research purposes to see how socially interconnected a specific Flickr members is (e.g. do they have any marked contacts with whom they have high social network overlap).  Warning: this can be REALLY SLOW to run for highly-connected Flickr members.
 
+You will need to put your own API key/secret into the variables of the file.
+
 Usage:
 `python flickrsocialvenn.py -u username`
 
