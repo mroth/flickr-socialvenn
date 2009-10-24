@@ -1,0 +1,11 @@
+== Flickr Social Venn Diagram -- Weighted Contact Interserction
+
+A quick hack to generate a weighted contact intersection venn diagram for a Flickr user and their closest neighbors.
+
+Usage:
+python flickrsocialvenn.py -u username
+
+The last thing it dumps to STDOUT will be a URL to your graph (via Google Charts)
+
+
+http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=flickrjo|cburg|ginormous&chd=t:163,124,45,36,26,29,24&chtt=Weighted+contact+intersection+for+flickrjo
