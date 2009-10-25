@@ -11,6 +11,5 @@ The last thing it dumps to STDOUT will be a URL to your graph (via Google Charts
 
 ## Examples
 
-![example1](http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=flickrjo|cburg|ginormous&chd=t:163,124,45,36,26,29,24&chtt=Weighted+contact+intersection+for+flickrjo)
-![example2](http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=PablitoR|wendy%20marie|steponnopets&chd=t:7,4,5,3,3,3,2&chtt=Weighted+contact+intersection+for+PablitoR)
-![example3](http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=jonathan_katzman|rtsai|pgriess&chd=t:47,12,21,2,2,2,1&chtt=Weighted+contact+intersection+for+jonathan_katzman)
+![example1](http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=PablitoR|wendy%20marie|steponnopets&chd=t:7,4,5,3,3,3,2&chtt=Weighted+contact+intersection+for+PablitoR)
+![example2](http://chart.apis.google.com/chart?chs=450x200&cht=v&chdl=jonathan_katzman|rtsai|pgriess&chd=t:47,12,21,2,2,2,1&chtt=Weighted+contact+intersection+for+jonathan_katzman)
